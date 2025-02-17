@@ -1,0 +1,15 @@
+/home/mukuvi/Public/Sharp/bin/Debug/net9.0/Sharp
+/home/mukuvi/Public/Sharp/bin/Debug/net9.0/Sharp.deps.json
+/home/mukuvi/Public/Sharp/bin/Debug/net9.0/Sharp.runtimeconfig.json
+/home/mukuvi/Public/Sharp/bin/Debug/net9.0/Sharp.dll
+/home/mukuvi/Public/Sharp/bin/Debug/net9.0/Sharp.pdb
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.AssemblyInfoInputs.cache
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.AssemblyInfo.cs
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.sourcelink.json
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.dll
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/refint/Sharp.dll
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.pdb
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/Sharp.genruntimeconfig.cache
+/home/mukuvi/Public/Sharp/obj/Debug/net9.0/ref/Sharp.dll
