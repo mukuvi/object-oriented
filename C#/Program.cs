@@ -73,12 +73,21 @@ namespace MyApplication
         }
         */
 
-        //WHILE LOOP
+        //WHILE LOOP  //DO WHILE
+        /*
         int position =0;
         while(position<5){
           Console.WriteLine(position);
           position++;
         }
+          
+        do{
+          Console.WriteLine(position);
+          position++;
+        }while(position<3);
+        */
+        
+
     }
   }
 }
