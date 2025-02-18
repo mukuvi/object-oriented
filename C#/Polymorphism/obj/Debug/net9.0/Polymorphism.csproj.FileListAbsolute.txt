@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/bin/Debug/net9.0/Polymorphism
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/bin/Debug/net9.0/Polymorphism.deps.json
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/bin/Debug/net9.0/Polymorphism.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/bin/Debug/net9.0/Polymorphism.dll
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/bin/Debug/net9.0/Polymorphism.pdb
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.dll
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/refint/Polymorphism.dll
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.pdb
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/Polymorphism.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/Polymorphism/obj/Debug/net9.0/ref/Polymorphism.dll
