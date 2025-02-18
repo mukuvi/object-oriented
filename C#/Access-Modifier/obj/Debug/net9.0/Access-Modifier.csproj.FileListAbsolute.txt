@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/bin/Debug/net9.0/Access-Modifier
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/bin/Debug/net9.0/Access-Modifier.deps.json
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/bin/Debug/net9.0/Access-Modifier.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/bin/Debug/net9.0/Access-Modifier.dll
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/bin/Debug/net9.0/Access-Modifier.pdb
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.dll
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/refint/Access-Modifier.dll
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.pdb
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/Access-Modifier.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/Access-Modifier/obj/Debug/net9.0/ref/Access-Modifier.dll

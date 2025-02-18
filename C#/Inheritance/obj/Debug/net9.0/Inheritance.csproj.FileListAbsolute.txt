@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/Inheritance/bin/Debug/net9.0/Inheritance
+/home/mukuvi/Public/object-oriented/C#/Inheritance/bin/Debug/net9.0/Inheritance.deps.json
+/home/mukuvi/Public/object-oriented/C#/Inheritance/bin/Debug/net9.0/Inheritance.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/Inheritance/bin/Debug/net9.0/Inheritance.dll
+/home/mukuvi/Public/object-oriented/C#/Inheritance/bin/Debug/net9.0/Inheritance.pdb
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.dll
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/refint/Inheritance.dll
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.pdb
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/Inheritance.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/Inheritance/obj/Debug/net9.0/ref/Inheritance.dll

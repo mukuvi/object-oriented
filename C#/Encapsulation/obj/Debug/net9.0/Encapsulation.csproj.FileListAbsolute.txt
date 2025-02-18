@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/bin/Debug/net9.0/Encapsulation
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/bin/Debug/net9.0/Encapsulation.deps.json
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/bin/Debug/net9.0/Encapsulation.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/bin/Debug/net9.0/Encapsulation.dll
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/bin/Debug/net9.0/Encapsulation.pdb
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.dll
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/refint/Encapsulation.dll
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.pdb
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/Encapsulation.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/Encapsulation/obj/Debug/net9.0/ref/Encapsulation.dll
