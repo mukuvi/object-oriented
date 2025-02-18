@@ -51,9 +51,28 @@ namespace MyApplication
 
         //IF ELSE
        
+        /*
         int money = 2000;
         string capital =(money>5000)?"well payed":"Poorly payed";
         Console.WriteLine(capital);
+        */
+
+        //SWITCH
+        /*
+        int day=2;
+        switch(day){
+          case 1:
+          Console.WriteLine("Monday");
+          break;
+          case 2:
+          Console.WriteLine("Tuesday");
+          break;
+          default:
+          Console.WriteLine("Does not exist");
+          break;
+        }
+        */
+        
     }
   }
 }
