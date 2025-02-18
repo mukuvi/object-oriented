@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/main/bin/Debug/net9.0/main
+/home/mukuvi/Public/object-oriented/C#/main/bin/Debug/net9.0/main.deps.json
+/home/mukuvi/Public/object-oriented/C#/main/bin/Debug/net9.0/main.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/main/bin/Debug/net9.0/main.dll
+/home/mukuvi/Public/object-oriented/C#/main/bin/Debug/net9.0/main.pdb
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.dll
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/refint/main.dll
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.pdb
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/main.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/main/obj/Debug/net9.0/ref/main.dll

@@ -2,8 +2,7 @@
 //learn c#
 
 /*
-> I am currently learning c##
-> I am using Girrafe academy course and W3Schools
+> dotnet new console -n james
 
 */
 namespace MyApplication
