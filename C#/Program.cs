@@ -72,7 +72,13 @@ namespace MyApplication
           break;
         }
         */
-        
+
+        //WHILE LOOP
+        int position =0;
+        while(position<5){
+          Console.WriteLine(position);
+          position++;
+        }
     }
   }
 }
