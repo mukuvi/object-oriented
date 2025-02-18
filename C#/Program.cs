@@ -117,13 +117,25 @@ namespace MyApplication
       */
 
       //ARRAYS
+      /*
       int[] num =[1,2,3,4,5];
-      string[] days=["Monday","Tuesday","Wednesday","Thursday","Friday"];
+      string[] days={"Monday","Tuesday","Wednesday","Thursday","Friday"};
+      Array.Sort(days);//sorting an array
       Console.WriteLine(num.Length);//length of an array
       for(int day =0; day<days.Length;day++){
-          Console.WriteLine($"Today is on {days[day]}");
+        Console.WriteLine($"Today is on {days[day]}");
       }
 
+      int[,] numbers ={{1,2,3},{5,6,7}};//Two-Dimensional Arrays[,]
+      Console.WriteLine(numbers[1,1]);//row and column [1,1]
+      foreach(int i in numbers)
+          {
+            Console.WriteLine(i);
+          };
+      */
+
+      //METHODS
+      
     }
   }
 }
