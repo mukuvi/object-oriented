@@ -100,6 +100,22 @@ namespace MyApplication
       }
        */
 
+      //BREAK //CONTINUE
+      /*
+      for(int i=0;1<10;i++){
+        if(i==5){
+          break;
+        }
+        Console.WriteLine(i);
+      }
+
+      for (int j=0;j<10;j++){
+        if(j==5){
+          continue;
+        }Console.WriteLine(j);
+      }
+      */
+
     }
   }
 }
