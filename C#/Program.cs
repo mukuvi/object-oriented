@@ -118,9 +118,11 @@ namespace MyApplication
 
       //ARRAYS
       int[] num =[1,2,3,4,5];
-      string[] days=["monday","tuesday","wednesday","thursday","friday"];
+      string[] days=["Monday","Tuesday","Wednesday","Thursday","Friday"];
       Console.WriteLine(num.Length);//length of an array
-      Console.WriteLine(days[3]);
+      for(int day =0; day<days.Length;day++){
+          Console.WriteLine($"Today is on {days[day]}");
+      }
 
     }
   }
