@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mukuvi/Public/Sharp/Sharp.csproj",
+      "projectUniqueName": "/home/mukuvi/Public/object-oriented/C#/Sharp.csproj",
       "projectName": "Sharp",
-      "projectPath": "/home/mukuvi/Public/Sharp/Sharp.csproj",
+      "projectPath": "/home/mukuvi/Public/object-oriented/C#/Sharp.csproj",
       "packagesPath": "/home/mukuvi/.nuget/packages/",
-      "outputPath": "/home/mukuvi/Public/Sharp/obj/",
+      "outputPath": "/home/mukuvi/Public/object-oriented/C#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mukuvi/.nuget/NuGet/NuGet.Config"

@@ -12,6 +12,10 @@ namespace MyApplication
   {
     static void Main(string[] args)
     {
+
+      int money = 2000;
+      string capital =(money>5000)?"well payed":"Poorly payed";
+      Console.WriteLine(capital);
       // DATA TYPES
         /*
         int myNum = 5;               // Integer (whole number)
