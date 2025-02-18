@@ -50,9 +50,10 @@ namespace MyApplication
         */
 
         //IF ELSE
-        int time = 20;
-        string result = (time < 18) ? "Good day." : "Good evening.";
-        Console.WriteLine(result);
+       
+        int money = 2000;
+        string capital =(money>5000)?"well payed":"Poorly payed";
+        Console.WriteLine(capital);
     }
   }
 }
