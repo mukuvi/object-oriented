@@ -73,7 +73,7 @@ namespace MyApplication
         }
         */
 
-        //WHILE LOOP  //DO WHILE
+        //WHILE LOOP  
         /*
         int position =0;
         while(position<5){
@@ -81,12 +81,24 @@ namespace MyApplication
           position++;
         }
           
+        //DO WHILE
         do{
           Console.WriteLine(position);
           position++;
         }while(position<3);
-        */
         
+      
+      //FOR LOOP
+      for(int i=0; i<5;i++){
+        Console.WriteLine(i);
+      }
+     
+      //FOR EACH
+      string[] students=["james","julia","john"];
+      foreach(string stud in students){
+        Console.WriteLine(stud);
+      }
+       */
 
     }
   }
