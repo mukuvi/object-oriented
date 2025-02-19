@@ -3,40 +3,41 @@
 */
 
 using System;
-class Animal  // Base class (parent) 
+
+class Car  // Base class (parent)
 {
-  public virtual void animalSound() 
-  {
-    Console.WriteLine("The animal makes a sound");
-  }
+    public virtual void Drive()
+    {
+        Console.WriteLine("The car is driving.");
+    }
 }
 
-class Pig : Animal  // Derived class (child) 
+class Toyota : Car  // Derived class (child)
 {
-  public override void animalSound() 
-  {
-    Console.WriteLine("The pig says: wee wee");
-  }
+    public override void Drive()
+    {
+        Console.WriteLine("The Toyota is driving smoothly.");
+    }
 }
 
-class Dog : Animal  // Derived class (child) 
+class Ford : Car  // Derived class (child)
 {
-  public override void animalSound() 
-  {
-    Console.WriteLine("The dog says: bow wow");
-  }
+    public override void Drive()
+    {
+        Console.WriteLine("The Ford is driving powerfully.");
+    }
 }
 
-class Program 
+class Program
 {
-  static void Main(string[] args) 
-  {
-    Animal myAnimal = new Animal();  
-    Animal myPig = new Pig();
-    Animal myDog = new Dog();
+    static void Main(string[] args)
+    {
+        Car myCar = new Car();          // Base class object
+        Car myToyota = new Toyota();    // Derived class object
+        Car myFord = new Ford();        // Derived class object
 
-    myAnimal.animalSound();
-    myPig.animalSound();
-    myDog.animalSound();
-  }
+        myCar.Drive();      // Calls the base class method
+        myToyota.Drive();   // Calls the overridden method in Toyota
+        myFord.Drive();     // Calls the overridden method in Ford
+    }
 }
