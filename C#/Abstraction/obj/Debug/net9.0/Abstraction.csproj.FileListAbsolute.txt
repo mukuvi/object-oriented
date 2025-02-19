@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/Abstraction/bin/Debug/net9.0/Abstraction
+/home/mukuvi/Public/object-oriented/C#/Abstraction/bin/Debug/net9.0/Abstraction.deps.json
+/home/mukuvi/Public/object-oriented/C#/Abstraction/bin/Debug/net9.0/Abstraction.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/Abstraction/bin/Debug/net9.0/Abstraction.dll
+/home/mukuvi/Public/object-oriented/C#/Abstraction/bin/Debug/net9.0/Abstraction.pdb
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.dll
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/refint/Abstraction.dll
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.pdb
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/Abstraction.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/Abstraction/obj/Debug/net9.0/ref/Abstraction.dll

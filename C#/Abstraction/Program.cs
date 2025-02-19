@@ -1,31 +1,34 @@
 ﻿/*
 > abstraction is the process of hiding certain details and showing only essential information to the user
 */
-abstract class Animal
+using System;
+
+abstract class Car
 {
-  // Abstract method (does not have a body)
-  public abstract void animalSound();
-  public void sleep()
-  {
-    Console.WriteLine("Zzz");
-  }
+    // Abstract method (does not have a body)
+    public abstract void Drive();
+    
+    public void Stop()
+    {
+        Console.WriteLine("The car has stopped.");
+    }
 }
 
-// Derived class (inherit from Animal)
-class Pig : Animal
+// Derived class (inherit from Car)
+class Toyota : Car
 {
-  public override void animalSound()
-  {
-      Console.WriteLine("The pig says: wee wee");
-  }
+    public override void Drive()
+    {
+        Console.WriteLine("The Toyota car is driving smoothly.");
+    }
 }
 
 class Program
 {
-  static void Main(string[] args)
-  {
-    Pig myPig = new Pig(); // Create a Pig object
-    myPig.animalSound();  // Call the abstract method
-    myPig.sleep();  // Call the regular method
-  }
+    static void Main(string[] args)
+    {
+        Toyota myToyota = new Toyota(); // Create a Toyota object
+        myToyota.Drive();  // Call the abstract method
+        myToyota.Stop();   // Call the regular method
+    }
 }
