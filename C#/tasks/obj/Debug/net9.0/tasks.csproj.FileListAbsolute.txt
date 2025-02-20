@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/tasks/bin/Debug/net9.0/tasks
+/home/mukuvi/Public/object-oriented/C#/tasks/bin/Debug/net9.0/tasks.deps.json
+/home/mukuvi/Public/object-oriented/C#/tasks/bin/Debug/net9.0/tasks.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/tasks/bin/Debug/net9.0/tasks.dll
+/home/mukuvi/Public/object-oriented/C#/tasks/bin/Debug/net9.0/tasks.pdb
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.dll
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/refint/tasks.dll
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.pdb
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/tasks.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/tasks/obj/Debug/net9.0/ref/tasks.dll
