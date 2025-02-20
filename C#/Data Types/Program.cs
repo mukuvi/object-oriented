@@ -40,6 +40,7 @@ namespace MyApplication
         Console.WriteLine(Math.Abs(-36)); // method returns the absolute (positive) value
         Console.WriteLine(Math.Round(6.78));  // rounds a number to the nearest whole number
         */
+        
         // STRINGS
         /*
         string firstName = "James";
