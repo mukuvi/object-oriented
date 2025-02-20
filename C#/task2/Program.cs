@@ -87,7 +87,7 @@ class Program
     static void Main()
     {
         // Create a book object
-        Book book = new Book("B001", "C# Programming", 45.99, 10, "John Doe", "2nd Edition", "Tech Publishers", 2023);
+        Book book = new Book("B001", "Bash scripting", 45.99, 10, "James Ngandu", "2nd Edition", "Mukuvi records & publishers", 2023);
         book.DisplayDetails();
         book.SellItem(2);
 
