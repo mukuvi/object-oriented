@@ -1,0 +1,15 @@
+/home/mukuvi/Public/object-oriented/C#/area-circum/bin/Debug/net9.0/area-circum
+/home/mukuvi/Public/object-oriented/C#/area-circum/bin/Debug/net9.0/area-circum.deps.json
+/home/mukuvi/Public/object-oriented/C#/area-circum/bin/Debug/net9.0/area-circum.runtimeconfig.json
+/home/mukuvi/Public/object-oriented/C#/area-circum/bin/Debug/net9.0/area-circum.dll
+/home/mukuvi/Public/object-oriented/C#/area-circum/bin/Debug/net9.0/area-circum.pdb
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.GeneratedMSBuildEditorConfig.editorconfig
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.AssemblyInfoInputs.cache
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.AssemblyInfo.cs
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.csproj.CoreCompileInputs.cache
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.sourcelink.json
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.dll
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/refint/area-circum.dll
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.pdb
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/area-circum.genruntimeconfig.cache
+/home/mukuvi/Public/object-oriented/C#/area-circum/obj/Debug/net9.0/ref/area-circum.dll
