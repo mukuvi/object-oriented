@@ -10,7 +10,11 @@ public class Main{
         //  System.out.println("My name is " +name+ " and my age is " +age);
         int l, w, area;
         l = 4; w = 5; area = l * w;
-        System.out.println(area);
+        // System.out.println(area);
+
+        /* Data types are divided into two groups 
+        Primitive data tyes - byte, short, int, long, float, double, boolean and char
+        Non-primitive data types - Strings, Arrays and Classes*/
 
 
       
