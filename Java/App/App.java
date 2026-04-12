@@ -3,6 +3,6 @@ public class App{
         int age =23;
         String name;
         name = "james";
-         System.out.println(name);
+         System.out.println(name + " is " + age +" Years old");
     }
 }
