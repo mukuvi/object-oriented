@@ -6,6 +6,8 @@ public class App{
     int studentAge = 23;
     float studentFee = 75.25f;
     char studentGrade = 'B';
+    boolean james = true;
+    System.out.println(james);
     }
     
 }
