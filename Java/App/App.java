@@ -5,8 +5,7 @@ public class App{
     int studentID = 15;
     int studentAge = 23;
     float studentFee = 75.25f;
-    char studentGrade = 'B'
-
+    char studentGrade = 'B';
     }
     
 }
